@@ -1,5 +1,7 @@
 body {
   margin: 0;
+  box-sizing: border-box;
+  padding: 0;
 }
 
 .top-pane {
@@ -63,4 +65,51 @@ body {
   border-bottom-right-radius: 0.5rem;
   border-bottom-left-radius: 0.5rem;
   overflow: hidden;
+}
+
+.display {
+  text-align: center;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
+
+.page {
+  text-align: center;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
+
+.head2 {
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  color: #009299;
+}
+
+a {
+  color: rgb(51, 51, 51);
+}
+
+a:link {
+  text-decoration: none;
+}
+
+a:visited {
+  text-decoration: none;
+}
+
+a:hover {
+  color: bisque;
+}
+
+.head {
+  padding-top: 200px;
+  margin-bottom: 5px;
+}
+
+.desc {
+  padding: 0px;
+  margin: 0;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  color: grey;
 }

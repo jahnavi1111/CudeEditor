@@ -1,15 +1,3 @@
-
-<!-- PROJECT SHIELDS -->
-<!--
-*** I'm using markdown "reference style" links for readability.
-*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
-*** See the bottom of this document for the declaration of the reference variables
-*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
-*** https://www.markdownguide.org/basic-syntax/#reference-style-links
--->
-[![Contributors][]]
-
-
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
@@ -49,7 +37,6 @@
     </li>
     <li><a href="#usage">Usage</a></li>
     <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
     <li><a href="#acknowledgements">Acknowledgements</a></li>
   </ol>
 </details>
@@ -59,7 +46,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-<img src="public/homepage.png" alt="Logo" width="1000" height="700">
+<img src="public/homepage.png" alt="Logo" width="1000" height="600">
 
 
 ### Built With
@@ -107,7 +94,7 @@ You will also see any lint errors in the console.
 ## Usage
 
 The left half of the page consists of the HTML, CSS, JavaScript Code panes. When the changes are made in the code, the rendered output gets updated in real-time in the right half of the page. 
-<img src="public/homepage.png" alt="Logo" width="1000" height="700">
+<img src="public/homepage.png" alt="Logo" width="1000" height="600">
 
 
 
@@ -122,18 +109,6 @@ Contributions are what make the open source community such an amazing place to b
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-
-
-<!-- LICENSE -->
-## License
-
-Distributed under the MIT License. See `LICENSE` for more information.
-
-
-
-<!-- CONTACT -->
-## Contact
-Hemani Gajjar - [@twitter_handle](https://twitter.com/twitter_handle) - email
 
 Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
 

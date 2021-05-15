@@ -59,7 +59,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-<img src="public/homepage.png" alt="Logo" width="1000" height="10ss00">
+<img src="public/homepage.png" alt="Logo" width="1000" height="700">
 
 
 ### Built With
@@ -106,9 +106,8 @@ You will also see any lint errors in the console.
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
+The left half of the page consists of the HTML, CSS, JavaScript Code panes. When the changes are made in the code, the rendered output gets updated in real-time in the right half of the page. 
+<img src="public/homepage.png" alt="Logo" width="1000" height="700">
 
 
 

@@ -10,7 +10,9 @@ function Display() {
       <h3 className="desc"> live output of the rendered webpage.</h3>
       <h2 className="head2">Render Code. Anytime. Anywhere.</h2>
       <Link to="/app">
-        <h2 className="display">START EDITING</h2>
+        <h2 className="display">
+          <button>START EDITING</button>
+        </h2>
       </Link>
     </div>
   );

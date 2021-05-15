@@ -103,6 +103,13 @@ The left half of the page consists of the HTML, CSS, JavaScript Code panes. When
 
 
 
+<!-- CONTRIBUTORS -->
+## Contributors
+* [Hemani Gajjar](https://github.com/hemani-gajjar)
+* [Jahnavi Juluri](https://github.com/jahnavi1111)
+
+
+
 <!-- CONTRIBUTING -->
 ## Contributing
 Any contributions you make are **greatly appreciated**.
@@ -112,8 +119,6 @@ Any contributions you make are **greatly appreciated**.
 3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
-
-
 
 
 

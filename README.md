@@ -7,7 +7,7 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-[![Contributors][contributors-shield]][https://github.com/hemani-gajjar/CudeEditor.git]
+[![Contributors][https://github.com/hemani-gajjar/CudeEditor.git]]
 
 
 <!-- PROJECT LOGO -->
@@ -60,7 +60,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-<img src="public/homepage.png" alt="Logo" width="160" height="140">
+<img src="public/homepage.png" alt="Logo" width="500" height="700">
 
 
 ### Built With
@@ -135,8 +135,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 <!-- CONTACT -->
 ## Contact
-
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email
+Hemani Gajjar - [@twitter_handle](https://twitter.com/twitter_handle) - email
 
 Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
 

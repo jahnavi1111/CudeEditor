@@ -46,7 +46,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 <br/>
-Project Link: [https://github.com/hemani-gajjar/CudeEditor.git](https://github.com/hemani-gajjar/CudeEditor.git)
+Project Link: [https://github.com/hemani-gajjar/CudeEditor.git] (https://github.com/hemani-gajjar/CudeEditor.git)
 <br/>
 <img src="public/homepage.png" alt="Logo" width="1000" height="600">
 

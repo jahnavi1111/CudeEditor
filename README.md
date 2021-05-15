@@ -47,7 +47,7 @@
 ## About The Project
 <br/>
 Project Link: [https://github.com/hemani-gajjar/CudeEditor.git](https://github.com/hemani-gajjar/CudeEditor.git)
-
+<br/>
 <img src="public/homepage.png" alt="Logo" width="1000" height="600">
 
 
@@ -97,8 +97,9 @@ You will also see any lint errors in the console.
 <br/>
 The left half of the page consists of the HTML, CSS, JavaScript Code panes. When the changes are made in the code, the rendered output gets updated in real-time in the right half of the page. 
 <br/>
-<img src="public/homepage.png" alt="Logo" width="1000" height="600">
 <br/>
+<img src="public/usage.png" alt="Logo" width="1000" height="600">
+
 
 
 <!-- CONTRIBUTING -->

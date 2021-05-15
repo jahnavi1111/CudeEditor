@@ -7,7 +7,7 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-[![Contributors][https://github.com/hemani-gajjar/CudeEditor.git]]
+[![Contributors][]]
 
 
 <!-- PROJECT LOGO -->
@@ -50,7 +50,6 @@
     <li><a href="#usage">Usage</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgements">Acknowledgements</a></li>
   </ol>
 </details>
@@ -60,7 +59,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-<img src="public/homepage.png" alt="Logo" width="500" height="700">
+<img src="public/homepage.png" alt="Logo" width="1000" height="10ss00">
 
 
 ### Built With

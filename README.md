@@ -49,7 +49,7 @@
 Project Repository Link: https://github.com/hemani-gajjar/CudeEditor.git
 <br/>
 <br/>
-<img src="public/homepage.png" alt="Logo" width="1000" height="600">
+<img src="public/homepage.png" alt="Logo" width="1000" height="580">
 
 
 ### Built With
@@ -99,7 +99,7 @@ You will also see any lint errors in the console.
 The left half of the page consists of the HTML, CSS, JavaScript Code panes. When the changes are made in the code, the rendered output gets updated in real-time in the right half of the page. 
 <br/>
 <br/>
-<img src="public/usage.png" alt="Logo" width="1000" height="600">
+<img src="public/usage.png" alt="Logo" width="1000" height="580">
 
 
 

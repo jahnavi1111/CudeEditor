@@ -20,7 +20,7 @@
     "start": "react-scripts start",
     "test": "jest",
     "eject": "react-scripts eject",
-    "build": "webpack src/app.js -o public/bundle.js",
+    "build": "react-scripts build",
     "deploy": "firebase deploy --token \"$FIREBASE_TOKEN\" --only hosting"
   },
   "eslintConfig": {
@@ -37,5 +37,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "html-webpack-plugin": "^5.3.1"
   }
 }

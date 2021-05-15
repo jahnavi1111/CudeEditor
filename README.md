@@ -7,13 +7,7 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
+[![Contributors][contributors-shield]][https://github.com/hemani-gajjar/CudeEditor.git]
 
 
 <!-- PROJECT LOGO -->
@@ -26,7 +20,7 @@
   <h3 align="center">CudeEditor</h3>
 
   <p align="center">
-   A-based code editor for HTML, CSS, JavaScript with real-time webpage rendering.
+   A Web-based code editor for HTML, CSS, JavaScript with real-time webpage rendering.
     <br />
     <a href="https://cude-editor.web.app/"><strong>View Demo »</strong></a>
     <br />
@@ -66,11 +60,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![CudeEditor Screen Shot][public/logo.png]](https://cude-editor.web.app/)
-
-Here's a blank template to get started:
-**To avoid retyping too much info. Do a search and replace with your text editor for the following:**
-`github_username`, `repo_name`, `twitter_handle`, `email`, `project_title`, `project_description`
+<img src="public/homepage.png" alt="Logo" width="160" height="140">
 
 
 ### Built With
@@ -97,7 +87,7 @@ To get a local copy up and running follow these simple steps.
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/github_username/repo_name.git
+   git clone https://github.com/hemani-gajjar/CudeEditor.git
    ```
 2. Install NPM packages
    ```sh
@@ -107,7 +97,7 @@ To get a local copy up and running follow these simple steps.
    ```sh
    npm start
    ```
-Runs the app in the development mode.
+This command runs the app in the development mode.
 Open http://localhost:3000 to view it in the browser.
 
 The page will reload if you make edits.
